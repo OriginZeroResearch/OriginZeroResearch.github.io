@@ -1,4 +1,9 @@
-
+.bg {
+    background-image: url("Background.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 @font-face {
     font-family: 'd-dindin-bold';
