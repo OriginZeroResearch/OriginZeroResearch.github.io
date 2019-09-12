@@ -3,6 +3,6 @@ h4 {
   color: #356321
 }
 
-a {
+a:link {
   color: hotpink;
 }
