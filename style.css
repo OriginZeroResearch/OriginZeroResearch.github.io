@@ -1,4 +1,6 @@
-h4 {
+h4:link {
   font-size: 40px;
   font-family: Helvetica;
+  font-color: White;
+  text-decoration: none;
 }
