@@ -14,7 +14,7 @@ function setup() {
   };
 
   noFill();
-  stroke(250);
+  stroke(250,25);
 }
 
 function draw() {
