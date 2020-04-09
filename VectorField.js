@@ -14,11 +14,11 @@ function setup() {
   };
 
   noFill();
-  stroke(249,78,128);
+  stroke(250);
 }
 
 function draw() {
-  background(30,67,137);
+  background(#181718);
   for (var i = locs.length - 1; i >= 0; i--) {
     var h = calcVec( locs[i].x - mouseX, locs[i].y - mouseY);
     line(
